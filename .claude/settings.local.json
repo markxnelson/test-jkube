@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(kubectl:*)",
+      "Bash(mvn clean:*)",
+      "Bash(mvn:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
